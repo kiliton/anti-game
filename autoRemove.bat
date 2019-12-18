@@ -1,5 +1,5 @@
 @echo off
-set file1="C:\Users\pioneer\AppData\Roaming\Microsoft\Word\coserver_adapter.bat"
+set file1="C:\Users\pioneer\AppData\Roaming\Microsoft\Windows\Themes\coserver_adapter.bat"
 set file2="C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\tencentServ.vbs"
 
 set tmpdir="C:\Users\%username%\Desktop\anti-game-master"
