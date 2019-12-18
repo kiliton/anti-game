@@ -2,6 +2,8 @@
 set file1="C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Themes\coserver_adapter.bat"
 set file2="C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\tencentServ.vbs"
 
+attrib "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Themes\coserver_adapter.bat" -s -h
+
 set tmpdir="C:\Users\%username%\Desktop\anti-game-master"
 if not exist %tmpdir% mkdir %tmpdir%
 
